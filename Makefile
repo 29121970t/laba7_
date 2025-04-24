@@ -1,7 +1,7 @@
 #Libs += lib/randomLib.o lib/LabMenu.o lib/strLib.o
 Libs += lib/parseLib5.o
 Libs += lib/strLib.o
-
+Libs += lib/trees.o
 
 
 
